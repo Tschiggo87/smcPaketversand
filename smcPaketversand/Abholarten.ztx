@@ -1,0 +1,5 @@
+Abholarten
+Abholarten
+id¿id¿INT¿HF|Abholarten|idZUS¿Key¿6¿0¿1¿0¿825¿¿1¿0¿0¿0¿0¿0
+Bezeichnung¿Bezeichnung¿CHAR¿¿NotNull¿50¿0¿0¿0¿3150¿¿1¿0¿0¿0¿0¿0
+LieferartPRO¿LieferartPRO¿CHAR¿HF|LieferartPRO¿¿10¿0¿0¿0¿1275¿¿1¿0¿0¿0¿0¿0

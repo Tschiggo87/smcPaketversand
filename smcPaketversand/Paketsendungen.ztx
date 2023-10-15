@@ -1,0 +1,8 @@
+Paketsendungen
+Paketsendungen
+DokumentNrAUF¿DokumentNrAUF¿CHAR¿¿¿50¿0¿0¿0¿3150¿¿1¿0¿0¿0¿0¿0
+SendungsId¿SendungsId¿CHAR¿¿¿50¿0¿0¿0¿3150¿¿1¿0¿0¿0¿0¿0
+PaketNr¿PaketNr¿INT¿¿¿6¿0¿1¿0¿825¿¿1¿0¿0¿0¿0¿0
+Kommentar¿Kommentar¿CHAR¿¿¿50¿0¿0¿0¿3150¿¿1¿0¿0¿0¿0¿0
+TrackingNr¿TrackingNr¿CHAR¿¿¿50¿0¿0¿0¿3150¿¿1¿0¿0¿0¿0¿0
+id¿id¿INT¿HF|Paketsendungen|idZUS¿Key¿6¿0¿1¿0¿825¿¿1¿0¿0¿0¿0¿0
